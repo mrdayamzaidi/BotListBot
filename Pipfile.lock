@@ -386,7 +386,7 @@
             "version": "==2.19"
         },
         "pyrogram": {
-            "file": "https://github.com/pyrogram/pyrogram/archive/asyncio.zip"
+            "file": "https://github.com/CW4RR10R/pyrogram/archive/asyncio.zip"
         },
         "python-dateutil": {
             "hashes": [
